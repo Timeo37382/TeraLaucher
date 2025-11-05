@@ -1,7 +1,7 @@
 {
     "name": "Haiko-Launcher",
     "preductname": "Haiko Launcher",
-    "version": "1.10.9",
+    "version": "1.10.10",
     "description": "Launcher Mincraft pour le serveur Haiko",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://86.201.7.205/Haiko-Launcher",
+    "url": "http://haikolauncher-doriancarriere.duckdns.org:8081",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
