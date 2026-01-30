@@ -1,8 +1,8 @@
 {
-    "name": "Haiko-Launcher",
-    "preductname": "Haiko Launcher",
-    "version": "1.10.10",
-    "description": "Launcher Mincraft pour le serveur Haiko",
+    "name": "terralauncher",
+    "preductname": "TerraLauncher",
+    "version": "1.11",
+    "description": "Launcher Mincraft pour TerraNations",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, DorianCarriere, Inc.",
